@@ -24,12 +24,12 @@ This repository contains:
 
 1. **Clone the repository**:
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/snpsande/edf-prophet-lstm.git
     ```
    
 2. **Navigate to the repository folder**:
     ```bash
-    cd [repository-folder]
+    cd edf-prophet-lstm
     ```
    
 3. **Run the Modeling Notebook**:
